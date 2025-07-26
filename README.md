@@ -1,4 +1,4 @@
 # Rikta-demo
 first repo
 <br>
-Author-Rikta
+Author-Rikta Pati
